@@ -1,0 +1,135 @@
+scode,name,region,eu,g7,g20,oecd,asean,global_south,income
+AGO,Angola,Africa,0,0,0,0,0,1,2
+ALB,Albania,Europe,0,0,0,0,0,0,3
+ARE,"United Arab Emirates",Asia,0,0,0,0,0,1,4
+ARG,Argentina,Americas,0,0,1,0,0,1,3
+ARM,Armenia,Asia,0,0,0,0,0,0,3
+AUS,Australia,Oceania,0,0,1,1,0,0,4
+AUT,Austria,Europe,1,0,0,1,0,0,4
+AZE,Azerbaijan,Asia,0,0,0,0,0,0,3
+BEL,Belgium,Europe,1,0,0,1,0,0,4
+BFA,"Burkina Faso",Africa,0,0,0,0,0,1,1
+BGD,Bangladesh,Asia,0,0,0,0,0,1,2
+BGR,Bulgaria,Europe,1,0,0,0,0,0,3
+BLR,Belarus,Europe,0,0,0,0,0,0,3
+BOL,Bolivia,Americas,0,0,0,0,0,1,2
+BRA,Brazil,Americas,0,0,1,0,0,1,3
+BWA,Botswana,Africa,0,0,0,0,0,1,3
+CAN,Canada,Americas,0,1,1,1,0,0,4
+CHE,Switzerland,Europe,0,0,0,1,0,0,4
+CHL,Chile,Americas,0,0,0,1,0,1,4
+CHN,China,Asia,0,0,1,0,0,1,3
+CIV,"Côte d’Ivoire",Africa,0,0,0,0,0,1,2
+CMR,Cameroon,Africa,0,0,0,0,0,1,2
+COD,"Congo - Kinshasa",Africa,0,0,0,0,0,1,1
+COG,"Congo - Brazzaville",Africa,0,0,0,0,0,1,2
+COL,Colombia,Americas,0,0,0,1,0,1,3
+CRI,"Costa Rica",Americas,0,0,0,1,0,1,3
+CUB,Cuba,Americas,0,0,0,0,0,1,3
+CYP,Cyprus,Asia,1,0,0,0,0,0,4
+CZE,Czechia,Europe,1,0,0,1,0,0,4
+DEU,Germany,Europe,1,1,1,1,0,0,4
+DNK,Denmark,Europe,1,0,0,1,0,0,4
+DOM,"Dominican Republic",Americas,0,0,0,0,0,1,3
+DZA,Algeria,Africa,0,0,0,0,0,1,2
+ECU,Ecuador,Americas,0,0,0,0,0,1,3
+EGY,Egypt,Africa,0,0,0,0,0,1,2
+ESP,Spain,Europe,1,0,0,1,0,0,4
+EST,Estonia,Europe,1,0,0,1,0,0,4
+ETH,Ethiopia,Africa,0,0,0,0,0,1,1
+FIN,Finland,Europe,1,0,0,1,0,0,4
+FRA,France,Europe,1,1,1,1,0,0,4
+GAB,Gabon,Africa,0,0,0,0,0,1,3
+GBR,"United Kingdom",Europe,0,1,1,1,0,0,4
+GHA,Ghana,Africa,0,0,0,0,0,1,2
+GIN,Guinea,Africa,0,0,0,0,0,1,1
+GMB,Gambia,Africa,0,0,0,0,0,1,1
+GNB,Guinea-Bissau,Africa,0,0,0,0,0,1,1
+GRC,Greece,Europe,1,0,0,1,0,0,4
+GTM,Guatemala,Americas,0,0,0,0,0,1,3
+GUY,Guyana,Americas,0,0,0,0,0,1,3
+HKG,"Hong Kong SAR China",Asia,0,0,0,0,0,NA,4
+HND,Honduras,Americas,0,0,0,0,0,1,2
+HRV,Croatia,Europe,1,0,0,0,0,0,4
+HTI,Haiti,Americas,0,0,0,0,0,1,2
+HUN,Hungary,Europe,1,0,0,1,0,0,4
+IDN,Indonesia,Asia,0,0,1,0,1,1,2
+IND,India,Asia,0,0,1,0,0,1,2
+IRL,Ireland,Europe,1,0,0,1,0,0,4
+IRN,Iran,Asia,0,0,0,0,0,1,2
+IRQ,Iraq,Asia,0,0,0,0,0,1,3
+ISL,Iceland,Europe,0,0,0,1,0,0,4
+ISR,Israel,Asia,0,0,0,1,0,0,4
+ITA,Italy,Europe,1,1,1,1,0,0,4
+JAM,Jamaica,Americas,0,0,0,0,0,1,3
+JOR,Jordan,Asia,0,0,0,0,0,1,3
+JPN,Japan,Asia,0,1,1,1,0,0,4
+KAZ,Kazakhstan,Asia,0,0,0,0,0,0,3
+KEN,Kenya,Africa,0,0,0,0,0,1,2
+KOR,"South Korea",Asia,0,0,1,1,0,0,4
+KWT,Kuwait,Asia,0,0,0,0,0,1,4
+LBN,Lebanon,Asia,0,0,0,0,0,1,3
+LBR,Liberia,Africa,0,0,0,0,0,1,1
+LBY,Libya,Africa,0,0,0,0,0,1,3
+LKA,"Sri Lanka",Asia,0,0,0,0,0,1,2
+LTU,Lithuania,Europe,1,0,0,1,0,0,4
+LUX,Luxembourg,Europe,1,0,0,1,0,0,4
+LVA,Latvia,Europe,1,0,0,1,0,0,4
+MAR,Morocco,Africa,0,0,0,0,0,1,2
+MDA,Moldova,Europe,0,0,0,0,0,0,3
+MDG,Madagascar,Africa,0,0,0,0,0,1,1
+MEX,Mexico,Americas,0,0,1,1,0,0,3
+MLI,Mali,Africa,0,0,0,0,0,1,1
+MMR,"Myanmar (Burma)",Asia,0,0,0,0,1,1,2
+MNG,Mongolia,Asia,0,0,0,0,0,1,2
+MOZ,Mozambique,Africa,0,0,0,0,0,1,1
+MWI,Malawi,Africa,0,0,0,0,0,1,1
+MYS,Malaysia,Asia,0,0,0,0,1,1,3
+NAM,Namibia,Africa,0,0,0,0,0,1,3
+NER,Niger,Africa,0,0,0,0,0,1,1
+NGA,Nigeria,Africa,0,0,0,0,0,1,2
+NIC,Nicaragua,Americas,0,0,0,0,0,1,2
+NLD,Netherlands,Europe,1,0,0,1,0,0,4
+NOR,Norway,Europe,0,0,0,1,0,0,4
+NZL,"New Zealand",Oceania,0,0,0,1,0,0,4
+OMN,Oman,Asia,0,0,0,0,0,1,4
+PAK,Pakistan,Asia,0,0,0,0,0,1,2
+PAN,Panama,Americas,0,0,0,0,0,1,3
+PER,Peru,Americas,0,0,0,0,0,1,3
+PHL,Philippines,Asia,0,0,0,0,1,1,2
+PNG,"Papua New Guinea",Oceania,0,0,0,0,0,1,2
+POL,Poland,Europe,1,0,0,1,0,0,4
+PRT,Portugal,Europe,1,0,0,1,0,0,4
+PRY,Paraguay,Americas,0,0,0,0,0,1,3
+QAT,Qatar,Asia,0,0,0,0,0,1,4
+ROU,Romania,Europe,1,0,0,0,0,0,3
+RUS,Russia,Europe,0,0,1,0,0,0,3
+SAU,"Saudi Arabia",Asia,0,0,1,0,0,1,4
+SDN,Sudan,Africa,0,0,0,0,0,1,1
+SEN,Senegal,Africa,0,0,0,0,0,1,2
+SGP,Singapore,Asia,0,0,0,0,1,1,4
+SLE,"Sierra Leone",Africa,0,0,0,0,0,1,1
+SLV,"El Salvador",Americas,0,0,0,0,0,1,2
+SOM,Somalia,Africa,0,0,0,0,0,1,1
+SRB,Serbia,Europe,0,0,0,0,0,0,3
+SUR,Suriname,Americas,0,0,0,0,0,1,3
+SVK,Slovakia,Europe,1,0,0,1,0,0,4
+SVN,Slovenia,Europe,1,0,0,1,0,0,4
+SWE,Sweden,Europe,1,0,0,1,0,0,4
+SYR,Syria,Asia,0,0,0,0,0,1,1
+TGO,Togo,Africa,0,0,0,0,0,1,1
+THA,Thailand,Asia,0,0,0,0,1,1,3
+TTO,"Trinidad & Tobago",Americas,0,0,0,0,0,1,4
+TUN,Tunisia,Africa,0,0,0,0,0,1,2
+TUR,Turkey,Asia,0,0,1,1,0,0,3
+TZA,Tanzania,Africa,0,0,0,0,0,1,2
+UGA,Uganda,Africa,0,0,0,0,0,1,1
+UKR,Ukraine,Europe,0,0,0,0,0,0,2
+URY,Uruguay,Americas,0,0,0,0,0,1,4
+USA,"United States",Americas,0,1,1,1,0,0,4
+VEN,Venezuela,Americas,0,0,0,0,0,1,
+VNM,Vietnam,Asia,0,0,0,0,1,1,2
+YEM,Yemen,Asia,0,0,0,0,0,1,1
+ZAF,"South Africa",Africa,0,0,1,0,0,1,3
+ZMB,Zambia,Africa,0,0,0,0,0,1,2
+ZWE,Zimbabwe,Africa,0,0,0,0,0,1,2
