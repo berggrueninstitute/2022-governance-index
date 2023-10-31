@@ -1,0 +1,146 @@
+scode,ccode,name,region,eu,g7,g20,oecd,asean,global_south,income
+AFG,4,Afghanistan,Asia,0,0,0,0,0,1,1
+AGO,24,Angola,Africa,0,0,0,0,0,1,2
+ALB,8,Albania,Europe,0,0,0,0,0,0,3
+ARG,32,Argentina,Americas,0,0,1,0,0,1,3
+ARM,51,Armenia,Asia,0,0,0,0,0,0,3
+AUS,36,Australia,Oceania,0,0,1,1,0,0,4
+AUT,40,Austria,Europe,1,0,0,1,0,0,4
+AZE,31,Azerbaijan,Asia,0,0,0,0,0,0,3
+BDI,108,Burundi,Africa,0,0,0,0,0,1,1
+BEL,56,Belgium,Europe,1,0,0,1,0,0,4
+BEN,204,Benin,Africa,0,0,0,0,0,1,2
+BFA,854,"Burkina Faso",Africa,0,0,0,0,0,1,1
+BGD,50,Bangladesh,Asia,0,0,0,0,0,1,2
+BGR,100,Bulgaria,Europe,1,0,0,0,0,0,3
+BHR,48,Bahrain,Asia,0,0,0,0,0,1,4
+BIH,70,"Bosnia & Herzegovina",Europe,0,0,0,0,0,1,3
+BRA,76,Brazil,Americas,0,0,1,0,0,1,3
+BTN,64,Bhutan,Asia,0,0,0,0,0,1,2
+BWA,72,Botswana,Africa,0,0,0,0,0,1,3
+CAF,140,"Central African Republic",Africa,0,0,0,0,0,1,1
+CAN,124,Canada,Americas,0,1,1,1,0,0,4
+CHE,756,Switzerland,Europe,0,0,0,1,0,0,4
+CHL,152,Chile,Americas,0,0,0,1,0,1,4
+CHN,156,China,Asia,0,0,1,0,0,1,3
+CIV,384,"Côte d’Ivoire",Africa,0,0,0,0,0,1,2
+CMR,120,Cameroon,Africa,0,0,0,0,0,1,2
+COD,180,"Congo - Kinshasa",Africa,0,0,0,0,0,1,1
+COG,178,"Congo - Brazzaville",Africa,0,0,0,0,0,1,2
+COM,174,Comoros,Africa,0,0,0,0,0,1,2
+CRI,188,"Costa Rica",Americas,0,0,0,1,0,1,3
+CUB,192,Cuba,Americas,0,0,0,0,0,1,3
+CYP,196,Cyprus,Asia,1,0,0,0,0,0,4
+CZE,203,Czechia,Europe,1,0,0,1,0,0,4
+DEU,276,Germany,Europe,1,1,1,1,0,0,4
+DJI,262,Djibouti,Africa,0,0,0,0,0,1,2
+DNK,208,Denmark,Europe,1,0,0,1,0,0,4
+DOM,214,"Dominican Republic",Americas,0,0,0,0,0,1,3
+ECU,218,Ecuador,Americas,0,0,0,0,0,1,3
+EGY,818,Egypt,Africa,0,0,0,0,0,1,2
+ESP,724,Spain,Europe,1,0,0,1,0,0,4
+EST,233,Estonia,Europe,1,0,0,1,0,0,4
+ETH,231,Ethiopia,Africa,0,0,0,0,0,1,1
+FIN,246,Finland,Europe,1,0,0,1,0,0,4
+FJI,242,Fiji,Oceania,0,0,0,0,0,1,3
+FRA,250,France,Europe,1,1,1,1,0,0,4
+GBR,826,"United Kingdom",Europe,0,1,1,1,0,0,4
+GEO,268,Georgia,Asia,0,0,0,0,0,0,3
+GHA,288,Ghana,Africa,0,0,0,0,0,1,2
+GIN,324,Guinea,Africa,0,0,0,0,0,1,1
+GMB,270,Gambia,Africa,0,0,0,0,0,1,1
+GNB,624,Guinea-Bissau,Africa,0,0,0,0,0,1,1
+GNQ,226,"Equatorial Guinea",Africa,0,0,0,0,0,1,3
+GRC,300,Greece,Europe,1,0,0,1,0,0,4
+GTM,320,Guatemala,Americas,0,0,0,0,0,1,3
+GUY,328,Guyana,Americas,0,0,0,0,0,1,3
+HND,340,Honduras,Americas,0,0,0,0,0,1,2
+HRV,191,Croatia,Europe,1,0,0,0,0,0,4
+HTI,332,Haiti,Americas,0,0,0,0,0,1,2
+HUN,348,Hungary,Europe,1,0,0,1,0,0,4
+IDN,360,Indonesia,Asia,0,0,1,0,1,1,2
+IND,356,India,Asia,0,0,1,0,0,1,2
+IRL,372,Ireland,Europe,1,0,0,1,0,0,4
+IRN,364,Iran,Asia,0,0,0,0,0,1,2
+ISL,352,Iceland,Europe,0,0,0,1,0,0,4
+ISR,376,Israel,Asia,0,0,0,1,0,0,4
+ITA,380,Italy,Europe,1,1,1,1,0,0,4
+JAM,388,Jamaica,Americas,0,0,0,0,0,1,3
+JOR,400,Jordan,Asia,0,0,0,0,0,1,3
+JPN,392,Japan,Asia,0,1,1,1,0,0,4
+KEN,404,Kenya,Africa,0,0,0,0,0,1,2
+KGZ,417,Kyrgyzstan,Asia,0,0,0,0,0,0,2
+KHM,116,Cambodia,Asia,0,0,0,0,1,1,2
+KOR,410,"South Korea",Asia,0,0,1,1,0,0,4
+LAO,418,Laos,Asia,0,0,0,0,1,1,2
+LBN,422,Lebanon,Asia,0,0,0,0,0,1,3
+LBR,430,Liberia,Africa,0,0,0,0,0,1,1
+LBY,434,Libya,Africa,0,0,0,0,0,1,3
+LKA,144,"Sri Lanka",Asia,0,0,0,0,0,1,2
+LSO,426,Lesotho,Africa,0,0,0,0,0,1,2
+LTU,440,Lithuania,Europe,1,0,0,1,0,0,4
+LUX,442,Luxembourg,Europe,1,0,0,1,0,0,4
+LVA,428,Latvia,Europe,1,0,0,1,0,0,4
+MAR,504,Morocco,Africa,0,0,0,0,0,1,2
+MDA,498,Moldova,Europe,0,0,0,0,0,0,3
+MDG,450,Madagascar,Africa,0,0,0,0,0,1,1
+MEX,484,Mexico,Americas,0,0,1,1,0,0,3
+MKD,807,"North Macedonia",Europe,0,0,0,0,0,0,3
+MLI,466,Mali,Africa,0,0,0,0,0,1,1
+MLT,470,Malta,Europe,1,0,0,0,0,0,4
+MMR,104,"Myanmar (Burma)",Asia,0,0,0,0,1,1,2
+MNE,499,Montenegro,Europe,0,0,0,0,0,0,3
+MNG,496,Mongolia,Asia,0,0,0,0,0,1,2
+MOZ,508,Mozambique,Africa,0,0,0,0,0,1,1
+MRT,478,Mauritania,Africa,0,0,0,0,0,1,2
+MWI,454,Malawi,Africa,0,0,0,0,0,1,1
+MYS,458,Malaysia,Asia,0,0,0,0,1,1,3
+NAM,516,Namibia,Africa,0,0,0,0,0,1,3
+NER,562,Niger,Africa,0,0,0,0,0,1,1
+NIC,558,Nicaragua,Americas,0,0,0,0,0,1,2
+NLD,528,Netherlands,Europe,1,0,0,1,0,0,4
+NOR,578,Norway,Europe,0,0,0,1,0,0,4
+NPL,524,Nepal,Asia,0,0,0,0,0,1,2
+NZL,554,"New Zealand",Oceania,0,0,0,1,0,0,4
+PAK,586,Pakistan,Asia,0,0,0,0,0,1,2
+PAN,591,Panama,Americas,0,0,0,0,0,1,3
+PER,604,Peru,Americas,0,0,0,0,0,1,3
+PHL,608,Philippines,Asia,0,0,0,0,1,1,2
+PNG,598,"Papua New Guinea",Oceania,0,0,0,0,0,1,2
+POL,616,Poland,Europe,1,0,0,1,0,0,4
+PRT,620,Portugal,Europe,1,0,0,1,0,0,4
+PRY,600,Paraguay,Americas,0,0,0,0,0,1,3
+ROU,642,Romania,Europe,1,0,0,0,0,0,3
+RUS,643,Russia,Europe,0,0,1,0,0,0,3
+RWA,646,Rwanda,Africa,0,0,0,0,0,1,1
+SAU,682,"Saudi Arabia",Asia,0,0,1,0,0,1,4
+SDN,729,Sudan,Africa,0,0,0,0,0,1,1
+SEN,686,Senegal,Africa,0,0,0,0,0,1,2
+SGP,702,Singapore,Asia,0,0,0,0,1,1,4
+SLE,694,"Sierra Leone",Africa,0,0,0,0,0,1,1
+SLV,222,"El Salvador",Americas,0,0,0,0,0,1,2
+SRB,688,Serbia,Europe,0,0,0,0,0,0,3
+STP,678,"São Tomé & Príncipe",Africa,0,0,0,0,0,1,2
+SUR,740,Suriname,Americas,0,0,0,0,0,1,3
+SVK,703,Slovakia,Europe,1,0,0,1,0,0,4
+SVN,705,Slovenia,Europe,1,0,0,1,0,0,4
+SWE,752,Sweden,Europe,1,0,0,1,0,0,4
+TCD,148,Chad,Africa,0,0,0,0,0,1,1
+TGO,768,Togo,Africa,0,0,0,0,0,1,1
+THA,764,Thailand,Asia,0,0,0,0,1,1,3
+TJK,762,Tajikistan,Asia,0,0,0,0,0,1,2
+TLS,626,Timor-Leste,Asia,0,0,0,0,0,1,2
+TUN,788,Tunisia,Africa,0,0,0,0,0,1,2
+TUR,792,Turkey,Asia,0,0,1,1,0,0,3
+TZA,834,Tanzania,Africa,0,0,0,0,0,1,2
+UGA,800,Uganda,Africa,0,0,0,0,0,1,1
+UKR,804,Ukraine,Europe,0,0,0,0,0,0,2
+URY,858,Uruguay,Americas,0,0,0,0,0,1,4
+USA,840,"United States",Americas,0,1,1,1,0,0,4
+UZB,860,Uzbekistan,Asia,0,0,0,0,0,0,2
+VEN,862,Venezuela,Americas,0,0,0,0,0,1,
+VNM,704,Vietnam,Asia,0,0,0,0,1,1,2
+YEM,887,Yemen,Asia,0,0,0,0,0,1,1
+ZAF,710,"South Africa",Africa,0,0,1,0,0,1,3
+ZMB,894,Zambia,Africa,0,0,0,0,0,1,2
+ZWE,716,Zimbabwe,Africa,0,0,0,0,0,1,2
